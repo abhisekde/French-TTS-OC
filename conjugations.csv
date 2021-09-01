@@ -20,13 +20,13 @@ He have had,Il a eu,passe-compose,avoir,3
 We have had,Nous avons eu,passe-compose,avoir,3
 You have had,Vous avez eu,passe-compose,avoir,3
 They have had,Ils ont eu,passe-compose,avoir,3
-I was having,J'avais,l'imperfait,avoir,3
-You were having,Tu avais,l'imperfait,avoir,3
-She was having,Ell'avait,l'imperfait,avoir,3
-He was having,Il avait,l'imperfait,avoir,3
-We were having,Nous avions,l'imperfait,avoir,3
-You were having,Vous aviez,l'imperfait,avoir,3
-They were having,Ils avaient,l'imperfait,avoir,3
+I had,J'avais,l'imperfait,avoir,3
+You had,Tu avais,l'imperfait,avoir,3
+She had,Ell'avait,l'imperfait,avoir,3
+He had,Il avait,l'imperfait,avoir,3
+We had,Nous avions,l'imperfait,avoir,3
+You had,Vous aviez,l'imperfait,avoir,3
+They had,Ils avaient,l'imperfait,avoir,3
 I am going to have,Je vais avoir,futur-proche,avoir,3
 You are going to have,Tu vas avoir,futur-proche,avoir,3
 She is going to have,Elle va avoir,futur-proche,avoir,3
@@ -40,8 +40,23 @@ She will have,Ell'aura,futur,avoir,3
 He will have,Il aura,futur,avoir,3
 We will have,Nous aurons,futur,avoir,3
 You will have,Vous aurez,futur,avoir,3
-They will have,Ils auront,futur,avoir,3
-
+They will have,Ils auront,futur,avoir,"3 "
+I would have,J'aurais,conditionnel-present,avoir,3
+You would have,Tu aurais,conditionnel-present,avoir,3
+She would have,Ell'aurait,conditionnel-present,avoir,3
+He would have,Il aurait,conditionnel-present,avoir,3
+We would have,Nous aurions,conditionnel-present,avoir,3
+You would have,Vous auriez,conditionnel-present,avoir,3
+They would have,Ils auraient,conditionnel-present,avoir,3
+That I have,Que j'aie,subjunctive-present,avoir,3
+That you have,Que tu aies,subjunctive-present,avoir,3
+That he have,Qu'il ait,subjunctive-present,avoir,3
+That she have,Qu'elle ait,subjunctive-present,avoir,3
+That one have,Qu'on ait,subjunctive-present,avoir,3
+That we have,Que nous ayons,subjunctive-present,avoir,3
+That you have,Que vous ayez,subjunctive-present,avoir,3
+That they have,Qu'ils aient,subjunctive-present,avoir,3
+,,,,
 I am,Je suis,present-indicative,être,3
 You are,Tu es,present-indicative,être,3
 He is,Il est,present-indicative,être,3
@@ -56,20 +71,20 @@ She is being,Elle étant,present-participe,être,3
 We are being,Nous étant,present-participe,être,3
 You are being,Vous étant,present-participe,être,3
 They are being,Ils étant,present-participe,être,3
-I had,J'ai été ,passe-compose,être,3
+I had,"J'ai été ",passe-compose,être,3
 You had,Tu as été,passe-compose,être,3
 He had,Il a été,passe-compose,être,3
 She had,Ell'a été,passe-compose,être,3
 We had,Nous avons été,passe-compose,être,3
 You had,Vous avez été,passe-compose,être,3
 They had,Ils ont été,passe-compose,être,3
-I was being,Je étais,l'imperfait,être,3
-You were being,Tu étais,l'imperfait,être,3
-He was being,Il était,l'imperfait,être,3
-She was being,Ell'était,l'imperfait,être,3
-We were being,Nous étions,l'imperfait,être,3
-You were being,Vous étiez,l'imperfait,être,3
-They were being,Ils étaient,l'imperfait,être,3
+I was,Je étais,l'imperfait,être,3
+You were,Tu étais,l'imperfait,être,3
+He was,Il était,l'imperfait,être,3
+She was,Ell'était,l'imperfait,être,3
+We were,Nous étions,l'imperfait,être,3
+You were,Vous étiez,l'imperfait,être,3
+They were,Ils étaient,l'imperfait,être,3
 I am going to be,Je vais être,futur-proche,être,3
 You are going to be,Tu vas être,futur-proche,être,3
 He is going to be,Il va être,futur-proche,être,3
@@ -84,7 +99,21 @@ She will be,Elle sera,futur,être,3
 We will be,Nous serons,futur,être,3
 You will be,Vous serez,futur,être,3
 They will be,Ils seront,futur,être,3
-
+I would be,Je serais,conditionnel-present,être,3
+You would be,Tu serais,conditionnel-present,être,3
+He would be,Il serait,conditionnel-present,être,3
+She would be,Elle serait,conditionnel-present,être,3
+We would be,Nous serions,conditionnel-present,être,3
+You would be,Vous seriez,conditionnel-present,être,3
+They would be,Ils seraient,conditionnel-present,être,3
+That I am,Que je sois,subjunctive-present,être,3
+That you are,Que tu sois,subjunctive-present,être,3
+That he is,Qu'il soit,subjunctive-present,être,3
+That she is,Qu'elle soit,subjunctive-present,être,3
+That we are,Oue nous soyons,subjunctive-present,être,3
+That you are,Que vous soyez,subjunctive-present,être,3
+That they are,Qu'elles soient,subjunctive-present,être,3
+,,,,
 I do,Je fais,present-indicative,faire,3
 You do,Tu fais,present-indicative,faire,3
 He does,Il fait,present-indicative,faire,3
@@ -115,7 +144,7 @@ He was doing,Il faisait,l'imperfait,faire,3
 She was doing,Elle faisait,l'imperfait,faire,3
 We was doing,On faisait,l'imperfait,faire,3
 We was doing,Nous faision,l'imperfait,faire,3
-You was doing,Vous faisez,l'imperfait,faire,3
+You was doing,Vous faisiez,l'imperfait,faire,3
 They was doing,Ils faisaient,l'imperfait,faire,3
 I am going to do,Je vais faire,futur-proche,faire,3
 You are going to do,Tu vas faire,futur-proche,faire,3
@@ -133,32 +162,61 @@ We will do,On fera,futur,faire,3
 We will do,Nous ferons,futur,faire,3
 You will do,Vous ferez,futur,faire,3
 They will do,Ils feront,futur,faire,3
-
-I can,Je peux,present-indicative,pouvoir,3
-You can,Tu peux,present-indicative,pouvoir,3
-She can,Elle peut,present-indicative,pouvoir,3
-We can,Nous pouvons,present-indicative,pouvoir,3
-You can,Vous pouvez,present-indicative,pouvoir,3
-They can,Ils pouvent,present-indicative,pouvoir,3
-I could,J'ai pu,passe-compose,pouvoir,3
-You could,Tu a pu,passe-compose,pouvoir,3
-She could,Ell'a pu,passe-compose,pouvoir,3
-We could,Nous avons pu,passe-compose,pouvoir,3
-You could,Vous avez pu,passe-compose,pouvoir,3
-They could,Ils ont pu,passe-compose,pouvoir,3
-I could,Je pouvais,l'imperfait,pouvoir,3
-You could,Tu pouvais,l'imperfait,pouvoir,3
-She could,Elle pouvait,l'imperfait,pouvoir,3
-We could,Nous pouvions,l'imperfait,pouvoir,3
-You could,Vous pouviez,l'imperfait,pouvoir,3
-They could,Ils pouvaient,l'imperfait,pouvoir,3
+I would do,Je ferais,conditionnel-present,faire,3
+You would do,Tu ferais,conditionnel-present,faire,3
+He would do,Il ferait,conditionnel-present,faire,3
+She would do,Elle ferait,conditionnel-present,faire,3
+We would do,On ferait,conditionnel-present,faire,3
+We would do,Nous ferions,conditionnel-present,faire,3
+You would do,Vous feriez,conditionnel-present,faire,3
+They would do,Ils feraient,conditionnel-present,faire,3
+That I do,Que je fasse,subjunctive-present,faire,3
+That you do,Que tu fasses,subjunctive-present,faire,3
+That he do,Qu'il fasse,subjunctive-present,faire,3
+That she do,Qu'elle fasse,subjunctive-present,faire,3
+That one does,Qu'on fasse,subjunctive-present,faire,3
+That we do,Que nous fassions,subjunctive-present,faire,3
+That you so,Que vous fassiez,subjunctive-present,faire,3
+That they do,Qu'ils fassent,subjunctive-present,faire,3
+,,,,
+I am able,Je peux,present-indicative,pouvoir,3
+You are able,Tu peux,present-indicative,pouvoir,3
+She is able,Elle peut,present-indicative,pouvoir,3
+We are able,Nous pouvons,present-indicative,pouvoir,3
+You are able,Vous pouvez,present-indicative,pouvoir,3
+They are able,Ils pouvent,present-indicative,pouvoir,3
+I was able,J'ai pu,passe-compose,pouvoir,3
+You were able,Tu a pu,passe-compose,pouvoir,3
+She was able,Ell'a pu,passe-compose,pouvoir,3
+We were able,Nous avons pu,passe-compose,pouvoir,3
+You were able,Vous avez pu,passe-compose,pouvoir,3
+They were able,Ils ont pu,passe-compose,pouvoir,3
+I was able,Je pouvais,l'imperfait,pouvoir,3
+You were able,Tu pouvais,l'imperfait,pouvoir,3
+She was able,Elle pouvait,l'imperfait,pouvoir,3
+We were able,Nous pouvions,l'imperfait,pouvoir,3
+You were able,Vous pouviez,l'imperfait,pouvoir,3
+They were able,Ils pouvaient,l'imperfait,pouvoir,3
 I will be able,Je pourrai,futur,pouvoir,3
 You will be able,Tu pourras,futur,pouvoir,3
 She will be able,Elle pourra,futur,pouvoir,3
 We will be able,Nous pourrons,futur,pouvoir,3
 You will be able,Vous pourrez,futur,pouvoir,3
 They will be able,Ils pourront,futur,pouvoir,3
-
+I could,Je pourrais,conditionnel-present,pouvoir,3
+You could,Tu pourrais,conditionnel-present,pouvoir,3
+She could,Elle pourrait,conditionnel-present,pouvoir,3
+We could,Nous pourrions,conditionnel-present,pouvoir,3
+You could,Vous pourriez,conditionnel-present,pouvoir,3
+They could,Ils pourraient,conditionnel-present,pouvoir,3
+That I can,Que je puisse,subjunctive-present,pouvoir,3
+That you can,Que tu puisses,subjunctive-present,pouvoir,3
+That she can,Qu'elle puisse,subjunctive-present,pouvoir,3
+That he can,Qu'il puisse,subjunctive-present,pouvoir,3
+That we can,Qui nous puissions,subjunctive-present,pouvoir,3
+That you can,Qui vous puissiez,subjunctive-present,pouvoir,3
+That they can,Qu'ils puissent,subjunctive-present,pouvoir,3
+,,,,
 I say,Je dis,present-indicative,dire,3
 You say,Tu dis,present-indicative,dire,3
 He says,Il dit,present-indicative,dire,3
@@ -189,13 +247,26 @@ He is going to say,Il va dire,futur-proche,dire,3
 We are going to say,Nous allons dire,futur-proche,dire,3
 You are going to say,Vous allez dire,futur-proche,dire,3
 They are going to say,Ils vont dire,futur-proche,dire,3
-I say,Je dirai,futur,dire,3
+I will say,Je dirai,futur,dire,3
 You will say,Tu diras,futur,dire,3
 He will says,Il dira,futur,dire,3
 We will say,Nous dirons,futur,dire,3
 You will say,Vous direz,futur,dire,3
-They will say,Ils diront,futur,dire,3
-
+They will say,Ils diront,futur,dire,"3 "
+I would say,Je dirais,conditionnel-present,dire,3
+You would say,Tu dirais,conditionnel-present,dire,3
+He would says,Il dirait,conditionnel-present,dire,3
+We would say,Nous dirions,conditionnel-present,dire,3
+You would say,Vous diriez,conditionnel-present,dire,3
+They would say,Ils diraient,conditionnel-present,dire,"3 "
+That I say,Que je dise,subjunctive-present,dire,3
+That you say,Que tu dises,subjunctive-present,dire,3
+That he says,Qu'il dise,subjunctive-present,dire,3
+That one says,Qu'on dise,subjunctive-present,dire,3
+"That we say ",Que nous disions,subjunctive-present,dire,3
+That you say,Que vous disiez,subjunctive-present,dire,3
+That they say,Qu'ils disent,subjunctive-present,dire,3
+,,,,
 I go,Je vais,present-indicative,aller,3
 You go,Tu vas,present-indicative,aller,3
 He goes,Il va,present-indicative,aller,3
@@ -217,7 +288,8 @@ You have gone,Tu es allé,passe-compose,aller,3
 He has gone,Il est allé,passe-compose,aller,3
 She has gone,Elle est allée,passe-compose,aller,3
 We have gone,On est allé,passe-compose,aller,3
-I was going to,Je allais,l'imperfait,aller,3
+They have gone,Ils sont allé,passe-compose,aller,3
+I was going to,J'allais,l'imperfait,aller,3
 You were going to,Tu allais,l'imperfait,aller,3
 He was going to,Il allait,l'imperfait,aller,3
 She was going to,Elle allait,l'imperfait,aller,3
@@ -240,7 +312,23 @@ We will go,On ira,futur,aller,3
 We will go,Nous irons,futur,aller,3
 You will go,Vous irez,futur,aller,3
 They will go,Ils iront,futur,aller,3
-
+I would go,J'irais,conditionnel-present,aller,3
+You would go,Tu irais,conditionnel-present,aller,3
+He would go,Il irait,conditionnel-present,aller,3
+She would go,Ell'irait,conditionnel-present,aller,3
+We would go,On irait,conditionnel-present,aller,3
+We would go,Nous irions,conditionnel-present,aller,3
+You would go,Vous iriez,conditionnel-present,aller,3
+They would go,Ils iraient,conditionnel-present,aller,3
+That I go,Que j'aille,subjunctive-present,aller,3
+That you go,Que tu ailles,subjunctive-present,aller,3
+That he goes,Q'il aille,subjunctive-present,aller,3
+That she goes,Qu'elle aille,subjunctive-present,aller,3
+That one goes,Qu'on aille,subjunctive-present,aller,3
+That we go,Que nous allions,subjunctive-present,aller,3
+That you go,Que vous alliez,subjunctive-present,aller,3
+That they go,Qu'elles aillent,subjunctive-present,aller,3
+,,,,
 I see,Je vois,present-indicative,voir,3
 You see,Tu vois,present-indicative,voir,3
 She sees,Elle voit,present-indicative,voir,3
@@ -263,7 +351,7 @@ I was seeing,Je voyais,l'imperfait,voir,3
 You was seeing,Tu voyais,l'imperfait,voir,3
 She was seeing,Elle voyait,l'imperfait,voir,3
 We were seeing,Nous voyions,l'imperfait,voir,3
-You were seeing,Vous voyiez vu,l'imperfait,voir,3
+You were seeing,Vous voyiez,l'imperfait,voir,3
 They were seeing,Ils voyaient,l'imperfait,voir,3
 I am going to see,Je vais voir,futur-proche,voir,3
 You are going to see,Tu vas voir,futur-proche,voir,3
@@ -276,34 +364,60 @@ You will see,Tu verras,futur,voir,3
 She will sees,Elle verra,futur,voir,3
 We will see,Nous verrons,futur,voir,3
 You will see,Vous verrez,futur,voir,3
-They will see,Ils verrent,futur,voir,3
-
+They will see,Ils verrent,futur,voir,"3 "
+I would see,Je verrais,conditionnel-present,voir,3
+You would see,Tu verrais,conditionnel-present,voir,3
+She would sees,Elle verrait,conditionnel-present,voir,3
+We would see,Nous verrions,conditionnel-present,voir,3
+You would see,Vous verriez,conditionnel-present,voir,3
+They would see,Ils verraient,conditionnel-present,voir,"3 "
+That I see,Que je voie,subjunctive-present,voir,3
+That you see,Que tu voies,subjunctive-present,voir,3
+That he sees,Qu'il voie,subjunctive-present,voir,3
+That she sees,Qu'elle voie,subjunctive-present,voir,3
+That one sees,Qu'on voie,subjunctive-present,voir,3
+That we see,Que nous voyions,subjunctive-present,voir,3
+That you see,Que vous voyiez,subjunctive-present,voir,3
+That they see,Qu'elles voient,subjunctive-present,voir,3
+,,,,
 I know,Je sais,present-indicative,savoir,3
 You know,Tu sais,present-indicative,savoir,3
 He knows,Il sait,present-indicative,savoir,3
 We know,Nous savons,present-indicative,savoir,3
 You know,Vous savez,present-indicative,savoir,3
 They know,Ils savent,present-indicative,savoir,3
-
-I have known,J'ai su,passe-compose,savoir,3
-You have known,Tu as su,passe-compose,savoir,3
-He have known,Il a su,passe-compose,savoir,3
-We have known,Nous avons su,passe-compose,savoir,3
-You have known,Vous avez su,passe-compose,savoir,3
-They have known,Ils ont su,passe-compose,savoir,3
+I had known,J'ai su,passe-compose,savoir,3
+You had known,Tu as su,passe-compose,savoir,3
+He had known,Il a su,passe-compose,savoir,3
+We had known,Nous avons su,passe-compose,savoir,3
+You had known,Vous avez su,passe-compose,savoir,3
+They had known,Ils ont su,passe-compose,savoir,3
 I was knowing,Je savais,l'imperfait,savoir,3
 You was knowing,Tu savais,l'imperfait,savoir,3
 He was knowing,Il savait,l'imperfait,savoir,3
-We were knowing,Nous savions su,l'imperfait,savoir,3
-You were knowing,Vous saviez su,l'imperfait,savoir,3
+We were knowing,Nous savions,l'imperfait,savoir,3
+You were knowing,Vous saviez,l'imperfait,savoir,3
 They were knowing,Ils savaient,l'imperfait,savoir,3
 I will know,Je saurai,futur,savoir,3
 You will know,Tu sauras,futur,savoir,3
 He will know,Il saura,futur,savoir,3
 We will know,Nous saurons,futur,savoir,3
 You will know,Vous saurez,futur,savoir,3
-They will know,Ils sauront,futur,savoir,3
-
+They will know,Ils sauront,futur,savoir,"3 "
+I would know,Je saurais,conditionnel-present,savoir,3
+You would know,Tu saurais,conditionnel-present,savoir,3
+He would know,Il saurait,conditionnel-present,savoir,3
+We would know,Nous saurions,conditionnel-present,savoir,3
+You would know,Vous sauriez,futconditionnel-presentur,savoir,3
+They would know,Ils sauraient,conditionnel-present,savoir,3
+That I know,Que je sache,subjunctive-present,savoir,3
+That you know,Que tu saches,subjunctive-present,savoir,3
+That he knows,Qu'il sache,subjunctive-present,savoir,3
+That she knows,Qu'elle sache,subjunctive-present,savoir,3
+Thay we know,Que nous sachions,subjunctive-present,savoir,3
+That you know,Que vous sachiez,subjunctive-present,savoir,3
+That they know,Qu'ils sachent,subjunctive-present,savoir,3
+,,,,
 I want,Je veux,present-indicative,vouloir,3
 You want,Tu veux,present-indicative,vouloir,3
 He wants,Il veut,present-indicative,vouloir,3
@@ -328,7 +442,19 @@ He needs,Il voudra,futur,vouloir,3
 We need,Nous voudrons,futur,vouloir,3
 You need,Vous voudrez,futur,vouloir,3
 They need,Ils voudront,futur,vouloir,3
-
+I would need,Je voudrais,conditionnel-present,vouloir,3
+You would need,Tu voudrais,conditionnel-present,vouloir,3
+He would needs,Il voudrait,conditionnel-present,vouloir,3
+We would need,Nous voudrions,conditionnel-present,vouloir,3
+You would need,Vous voudriez,conditionnel-present,vouloir,3
+They would need,Ils voudraient,conditionnel-present,vouloir,3
+That I need,Que je veuille,subjunctive-present,vouloir,3
+That you need,Que tu veuilles,subjunctive-present,vouloir,3
+That she need,Qu'elle veuille,subjunctive-present,vouloir,3
+That we need,Que nous voulions,subjunctive-present,vouloir,3
+That you need,Que vous vouliez,subjunctive-present,vouloir,3
+That they need,Qu'ils veuillent,subjunctive-present,vouloir,3
+,,,,
 I come,Je viens,present-indicative,venir,3
 You come,Tu viens,present-indicative,venir,3
 He comes,Il vient,present-indicative,venir,3
@@ -365,7 +491,20 @@ He will comes,Il viendra,futur,venir,3
 We will come,Nous viendrons,futur,venir,3
 You will come,Vous viendrez,futur,venir,3
 They will come,Ils viendront,futur,venir,3
-
+I would come,Je viendrais,conditionnel-present,venir,3
+You would come,Tu viendrais,conditionnel-present,venir,3
+He would comes,Il viendrait,conditionnel-present,venir,3
+We would come,Nous viendrions,conditionnel-present,venir,3
+You would come,Vous viendriez,conditionnel-present,venir,3
+They would come,Ils viendraient,conditionnel-present,venir,3
+That I come,Que je vienne,subjunctive-present,venir,3
+That you come,Que tu viennes,subjunctive-present,venir,3
+That she comes,Qu'elle vienne,subjunctive-present,venir,3
+That one come,Qu'on vienne,subjunctive-present,venir,3
+That we come,Que nous venions,subjunctive-present,venir,3
+That you come,Que vous veniez,subjunctive-present,venir,3
+That they come,Qu'ils viennent,subjunctive-present,venir,3
+,,,,
 I must,Je dois,present-indicative,devoir,3
 You must,Tu dois,present-indicative,devoir,3
 He must,Il doit,present-indicative,devoir,3
@@ -384,16 +523,23 @@ He had to,Il devait,l'imperfait,devoir,3
 We had to,Nous devions,l'imperfait,devoir,3
 You had to,Vous deviez,l'imperfait,devoir,3
 They had to,Ils devaient,l'imperfait,devoir,3
-I should,Je devrai,futur,devoir,3
-You should,Tu devras,futur,devoir,3
-He should,Il devra,futur,devoir,3
-We should,Nous devrons,futur,devoir,3
-You should,Vous devrez,futur,devoir,3
-They should,Ils devront,futur,devoir,3
-
+I should,Je devrais,conditionnel-present,devoir,3
+You should,Tu devrais,conditionnel-present,devoir,3
+He should,Il devrait,conditionnel-present,devoir,3
+We should,Nous devrions,conditionnel-present,devoir,3
+You should,Vous devriez,conditionnel-present,devoir,3
+They should,Ils devraient,conditionnel-present,devoir,3
+That I should,Que je doive,subjunctive-present,devoir,3
+That you should,Que tu doives,subjunctive-present,devoir,3
+That he should,Qu'il doive,subjunctive-present,devoir,3
+That she should,Qu'elle doive,subjunctive-present,devoir,3
+That we should,Que nous devions,subjunctive-present,devoir,3
+That you should,Que vous deviez,subjunctive-present,devoir,3
+That they should,Qu'ils doivent,subjunctive-present,devoir,3
+,,,,
 It is must,Il faut,present-indicative,falloir,3
 It was must,Il a fallu,passe-compose,falloir,3
-
+That it must,Qu'il faille,subjunctive-present,falloir,3
 I take,Je prends,present-indicative,prendre,3
 You take,Tu prends,present-indicative,prendre,3
 He takes,Il prend,present-indicative,prendre,3
@@ -427,22 +573,35 @@ They are going to take,Ils vont prendre,futur-proche,prendre,3
 I will take,Je prendrai,futur,prendre,3
 You will take,Tu prendras,futur,prendre,3
 He will takes,Il prendra,futur,prendre,3
-We will take,Nous prendons,futur,prendre,3
+We will take,Nous prendrons,futur,prendre,3
 You will take,Vous prendrez,futur,prendre,3
-They will take,Ils prendront,futur,prendre,3
-
+They will take,Ils prendront,futur,prendre,"3 "
+I would take,Je prendrais,conditionnel-present,prendre,3
+You would take,Tu prendrais,conditionnel-present,prendre,3
+He would takes,Il prendrait,conditionnel-present,prendre,3
+We would take,Nous prendrions,conditionnel-present,prendre,3
+You would take,Vous prendriez,conditionnel-present,prendre,3
+They would take,Ils prendraient,conditionnel-present,prendre,3
+That I take,Que je prenne,subjunctive-present,prendre,3
+That you take,Que tu prennes,subjunctive-present,prendre,3
+That he takes,Qu'il prenne,subjunctive-present,prendre,3
+That she takes,Qu'elle prenne,subjunctive-present,prendre,3
+That we take,Que nous prenions,subjunctive-present,prendre,3
+That you take,Que vous preniez,subjunctive-present,prendre,3
+That they take,Qu'elles prennent,subjunctive-present,prendre,3
+,,,,
 I put,Je mets,present-indicative,mettre,3
 You put,Tu mets,present-indicative,mettre,3
 She puts,Elle met,present-indicative,mettre,3
 We put,Nous mettons,present-indicative,mettre,3
 You put,Vous mettez,present-indicative,mettre,3
 They put,Ils mettent,present-indicative,mettre,3
-I am putting,Je mettans,present-participe,mettre,3
-You are putting,Tu mettans,present-participe,mettre,3
-She is putting,Elle mettans,present-participe,mettre,3
-We are putting,Nous mettans,present-participe,mettre,3
-You are putting,Vous mettans,present-participe,mettre,3
-They are putting,Ils mettans,present-participe,mettre,3
+I am putting,Je mettant,present-participe,mettre,3
+You are putting,Tu mettant,present-participe,mettre,3
+She is putting,Elle mettant,present-participe,mettre,3
+We are putting,Nous mettant,present-participe,mettre,3
+You are putting,Vous mettant,present-participe,mettre,3
+They are putting,Ils mettant,present-participe,mettre,3
 I had put,J'ai mis,passe-compose,mettre,3
 You had put,Tu as mis,passe-compose,mettre,3
 She had puts,Ell'a mis,passe-compose,mettre,3
@@ -467,3 +626,17 @@ She will put,Elle mettra,futur,mettre,3
 We will put,Nous mettrons,futur,mettre,3
 You will put,Vous mettrez,futur,mettre,3
 They will put,Ils mettront,futur,mettre,3
+I would put,Je mettrais,conditionnel-present,mettre,3
+You would put,Tu mettrais,conditionnel-present,mettre,3
+She would put,Elle mettrait,conditionnel-present,mettre,3
+We would put,Nous mettrions,conditionnel-present,mettre,3
+You would put,Vous mettriez,conditionnel-present,mettre,3
+They would put,Ils mettraient,conditionnel-present,mettre,3
+That I put,Que je mette,subjunctive-present,mettre,3
+That you put,Que tu mettes,subjunctive-present,mettre,3
+That he put,Qu'il mette,subjunctive-present,mettre,3
+That she put,Qu'elle mettes,subjunctive-present,mettre,3
+That we put,Que nous mettions,subjunctive-present,mettre,3
+That you put,Que vous mettiez,subjunctive-present,mettre,3
+That they put,Qu'elles mettent,subjunctive-present,mettre,3
+,,,,
